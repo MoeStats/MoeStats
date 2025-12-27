@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mohammad (MoeStats) 👋
+### Aspiring Data Analyst | Python Learner
 
-<!--
-**MoeStats/MoeStats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently on my journey to becoming a Data Analyst. 
+I love turning raw numbers into meaningful stories.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently learning: **Python Basics & Logic**
+- 🌱 My Goal: Mastering **Pandas, SQL, and Statistics**
+- ⚡ Fun fact: I believe every dataset has a hidden pattern waiting to be found.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠 Tools I'm Learning:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
